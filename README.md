@@ -67,7 +67,6 @@ The scan also detected:
 
 - Vulnerability_Assessment_Report.pdf
 - README.md
-- evidence/
 
 Evidence folder contains:
 - whatweb.txt
