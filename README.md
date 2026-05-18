@@ -1,7 +1,9 @@
 # FUTURE_CS_01 – Vulnerability Assessment Report
 
-Cyber Security Track Future Interns Internship (2026) 
-Task 1: Vulnerability Assessment Report for a Live Website (Read-Only Scope)
+**Author:** IGNAS EDD MALEWA  
+**CIN ID:** FIT/APR26/CS8072  
+**Date:** May 2026  
+**Task:** Vulnerability Assessment Report for a Live Website (Read-Only Scope)
 
 
 ## Project Overview
